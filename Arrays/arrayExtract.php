@@ -11,5 +11,4 @@ extract($dados);
 echo "$nome <br>";
 echo "$idade <br>";
 echo "$cpf <br>";
-
 // posso extrair chaves de um array usando o extract
